@@ -12,7 +12,7 @@ Progress might be slow, but each commit is a step closer to something better.
  
 Former news editor, now a Master of IT student at UoA
 
-Currently busy building up my coding skills. 
+Currently busy building up my coding skills
 
 Passionate about UI/UX design and web development
 
