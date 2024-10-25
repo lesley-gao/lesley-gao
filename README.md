@@ -1,6 +1,11 @@
-## Hi there 👋
+## Hi 👋
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesley-gao&layout=compact)
 
 <!--
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesley-gao&show_icons=true&bg_color=00000000)
+
 **lesley-gao/lesley-gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
