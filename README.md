@@ -32,7 +32,10 @@ Let’s enjoy the music and code together!
 
 <!--
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesley-gao&show_icons=true&bg_color=00000000)
+Use later~~~ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lesley-gao&theme=shadow_blue)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lesley-gao\&rank_icon=github&theme=shadow_blue)
 
 **lesley-gao/lesley-gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
