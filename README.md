@@ -16,7 +16,7 @@ Currently busy building up my coding skills
 
 Passionate about UI/UX design and web development
 
-Lover of Lego, puzzles 🧩, photography, and all things creative!
+Lover of Lego, puzzles 🧩, photography 📷, and all things creative!
  
 <br>
 
