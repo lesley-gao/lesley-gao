@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hi there👋, welcome to my Github!
+# Hi there👋, welcome to my GitHub!
 <img src="https://github.com/lesley-gao/lesley-gao/blob/main/GO.png" alt="myself" height="300px">
 
 <!-- Emojis -->
@@ -33,7 +33,7 @@ Former news editor, now a Master of IT student at UoA
 
 Currently busy building up my coding skills
 
-Passionate about UI/UX design and web development
+Passionate about **UI/UX design** and **web development**
 
 Lover of Lego, puzzles 🧩, photography 📷, and all things creative!
  
