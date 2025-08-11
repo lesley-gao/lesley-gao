@@ -45,7 +45,7 @@ Let’s enjoy the music and code together!
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesley-gao&layout=compact&cache_seconds=86400)
 
-![Visitor Count](https://profile-counter.glitch.me/{lesley-gao}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{lesley-gao}/count.svg) -->
 
 </div>
 
