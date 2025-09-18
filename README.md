@@ -29,7 +29,7 @@ Progress might be slow, but each commit is a step closer to something better.
 
  <h2>🌻 A Little About Me</h2> 
  
-Former news editor, now a Master of IT student at UoA
+Former news editor, now a Master of IT graduate at UoA
 
 Currently busy building up my coding skills
 
